@@ -1,1 +1,3 @@
-# Jail
+- git clone https://github.com/LUXINE19/Jail
+- cd jail
+- python spam.py
